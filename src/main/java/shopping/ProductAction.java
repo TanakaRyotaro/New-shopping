@@ -26,6 +26,6 @@ public class ProductAction extends Action {
         session.setAttribute("list",list);
         //商品ﾘｽﾄをｾｯｼｮﾝ属性に設定する｡属性名はlistです｡
 
-        return "../webapp/product.jsp";
+        return "product.jsp";
     }
 }
