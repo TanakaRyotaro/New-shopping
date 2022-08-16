@@ -1,5 +1,6 @@
 <%@page pageEncoding="UTF-8" %>
 
+<a href="index.jsp">ホーム</a>
 <a href="../shopping/Product.action">商品</a>
 <a href="cart.jsp">カート</a>
 <a href="../shopping/Preview.action">購入</a>

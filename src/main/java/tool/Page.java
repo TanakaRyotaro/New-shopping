@@ -8,7 +8,7 @@ public class Page{
 		out.println("<heml>");
 		out.println("<head>");
 		out.println("<meta sharset='UTF-8'>");
-		out.println("<title>Servlet/JSP Sample Programs</title>");
+		out.println("<title>ユーザー登録</title>");
 		out.println("</head>");
 		out.println("<body>");
 	}
