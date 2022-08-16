@@ -3,7 +3,7 @@
 <%@include file="menu.jsp" %>
 
 購入するには
-<a href="../login/login-in.jsp">ログイン</a>
+<a href="login-in.jsp">ログイン</a>
 して下さい｡
 
 <%@include file="footer.html" %>
